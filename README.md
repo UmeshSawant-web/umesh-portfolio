@@ -6,11 +6,6 @@ The website is fully responsive and built using modern web technologies.
 
 ---
 
-## 🚀 Live Demo
-🔗 **Portfolio Link:** *(Add deployed link here once hosted)*
-
----
-
 ## 📌 Features
 - Fully responsive modern UI
 - Smooth animations and hover effects
